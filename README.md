@@ -11,7 +11,7 @@ This project aimed to create a website that allows you to create an account and 
 ## Alex Marquez - Requirements Manager
 ## Ethan Pacleb - Documentation Manager
 ## Jacob Raeside - Testing Manager
-- Docker Environement Setup and Config
+- Docker Environment Setup and Config
 - Nginx Config
 - Logout functionality
 - OpenAI / ChatGPT implementation - show_movies view
